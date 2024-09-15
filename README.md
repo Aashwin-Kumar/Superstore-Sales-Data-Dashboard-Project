@@ -25,6 +25,3 @@ The dataset includes comprehensive sales data for multiple products sold by the 
 
 ### Contributions:
 Contributions to enhance the dashboard's functionality, improve visualizations, or optimize data processing are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-### License:
-This project is licensed under the Apache 2.0. 😉
